@@ -1,2 +1,2 @@
-The Meal Preppers - A9
-https://a9-themealpreppers.herokuapp.com/
+The Meal Preppers
+https://a10-themealpreppers.herokuapp.com/
